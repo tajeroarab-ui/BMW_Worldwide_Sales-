@@ -2,6 +2,8 @@
 This dataset provides detailed sales information for BMW vehicles from 2010 to 2024 across global regions. It includes attributes such as model, year, engine size, mileage, transmission type, fuel type, price, and sales volume. Scholars and analysts can use it to explore market trends, pricing approaches, and customer favorites.
 # 🎯 Objective
 To analyze BMW’s global and regional sales performance from 2010 to 2024, identify demand trends, assess market drivers, and extract actionable insights for strategic planning, forecasting, and business optimization.
+# Dataset: 
+* [Download Here](https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024)
 #  Analyses & Questions
 ## Q.1 How have BMW’s total sales evolved from 2010 to 2024?
 ## Q.2 Which countries or regions contribute most to total sales?
